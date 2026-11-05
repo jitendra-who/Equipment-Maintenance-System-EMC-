@@ -6,8 +6,6 @@ when there are only a few technicians and a limited stock of spare parts.
 It also includes a simulator that runs a model plant for a month and compares four
 maintenance strategies, so the decisions can be tested instead of just assumed.
 
-PBL project, B.Tech CSE 2nd year, Graphic Era.
-
 ---
 
 ## The problem
