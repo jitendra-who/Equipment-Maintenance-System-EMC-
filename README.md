@@ -197,15 +197,5 @@ scheduling result means the next thing to work on is the spare parts policy.
 - MaintainX survey of 211 maintenance leaders on skilled labour shortages (2026).
 - Forvis Mazars, report on digital transformation of MSMEs in India.
 
-## Team
 
-| Name | Roll no. | Worked on |
-|------|----------|-----------|
-|      |          |           |
-|      |          |           |
 
-Guide:
-
-## Use of AI tools
-
-<!-- Fill this in honestly as your college requires: which tools you used and for what. -->
